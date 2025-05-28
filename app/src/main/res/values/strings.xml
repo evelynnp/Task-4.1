@@ -1,0 +1,14 @@
+<resources>
+    <!-- Set texts -->
+    <string name="strAppName">Task 4.1 - Task Manager</string>
+    <string name="strTaskHeader">Task Details</string>
+    <string name="strTitle">Title: </string>
+    <string name="strDue">Due: </string>
+    <string name="strSelectDate">Select Date</string>
+    <string name="strDescription">Description: </string>
+    <string name="strButtonNewTask">New Task</string>
+    <string name="strButtonConfirm">Confirm</string>
+    <string name="strEdit">Edit Task</string>
+    <string name="strDelete">Delete Task</string>
+
+</resources>
